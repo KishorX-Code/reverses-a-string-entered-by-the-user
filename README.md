@@ -1,6 +1,5 @@
 #include <stdio.h>
 #include <string.h>
-
 void reverseString(char str[]) {
     int i, len, temp;
     len = strlen(str);
